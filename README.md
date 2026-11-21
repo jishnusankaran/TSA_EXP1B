@@ -5,15 +5,22 @@
 To perform regular differencing, seasonal adjustment, and log transformation on the New Car Sales dataset to convert non-stationary data into stationary data.
 ### ALGORITHM:
 1.Import the required libraries such as Pandas, NumPy and Matplotlib.
+
 2.Read the New Car Sales dataset using Pandas.
+
 3.Convert Year and Month into a datetime format.
+
 4.Calculate total monthly car sales by grouping the data.
+
 5.Perform regular differencing using the monthly sales data.
+
 6.Perform seasonal adjustment using seasonal decomposition.
+
 7.Apply log transformation to the sales data.
+
 8.Perform regular and seasonal differencing on the log-transformed data.
-9.Plot all six graphs and display the overall comparison.
-10.Display the final results.
+
+9.Plot all six graphs and display the overall comparison And Display the Result.
 ### PROGRAM:
 ```
 
